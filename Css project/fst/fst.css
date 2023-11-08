@@ -1,0 +1,28 @@
+/*Heading Design: color, Background color, and border*/
+h1{
+color:rgb(46, 50, 49);
+background-color: rgb(224, 219, 219);
+/* border-radius:  5px; */
+border: 5px solid gray;
+border-right-style: dotted ;
+text-align: center;
+}
+/*margin*/
+.bar-one{
+    margin-left: 40px;
+
+}
+.bar-one button{
+    background-color: rgb(199, 199, 228);
+    color: black;
+    font-size: 20px;
+    border-radius: 30px;
+    padding:5px;/*used padding?*/
+}
+img{
+   width: inherit;
+    max-width: 700px;
+    max-height: 100px;
+    min-width: 400px;
+    min-height: 200px;
+}
